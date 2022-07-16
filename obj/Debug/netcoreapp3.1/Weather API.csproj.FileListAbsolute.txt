@@ -1,0 +1,16 @@
+C:\Users\marag\OneDrive\Desktop\TrueCode\Repos\Weather API\bin\Debug\netcoreapp3.1\Weather API.exe
+C:\Users\marag\OneDrive\Desktop\TrueCode\Repos\Weather API\bin\Debug\netcoreapp3.1\Weather API.deps.json
+C:\Users\marag\OneDrive\Desktop\TrueCode\Repos\Weather API\bin\Debug\netcoreapp3.1\Weather API.runtimeconfig.json
+C:\Users\marag\OneDrive\Desktop\TrueCode\Repos\Weather API\bin\Debug\netcoreapp3.1\Weather API.runtimeconfig.dev.json
+C:\Users\marag\OneDrive\Desktop\TrueCode\Repos\Weather API\bin\Debug\netcoreapp3.1\Weather API.dll
+C:\Users\marag\OneDrive\Desktop\TrueCode\Repos\Weather API\bin\Debug\netcoreapp3.1\Weather API.pdb
+C:\Users\marag\OneDrive\Desktop\TrueCode\Repos\Weather API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\marag\OneDrive\Desktop\TrueCode\Repos\Weather API\obj\Debug\netcoreapp3.1\Weather API.csproj.AssemblyReference.cache
+C:\Users\marag\OneDrive\Desktop\TrueCode\Repos\Weather API\obj\Debug\netcoreapp3.1\Weather API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marag\OneDrive\Desktop\TrueCode\Repos\Weather API\obj\Debug\netcoreapp3.1\Weather API.AssemblyInfoInputs.cache
+C:\Users\marag\OneDrive\Desktop\TrueCode\Repos\Weather API\obj\Debug\netcoreapp3.1\Weather API.AssemblyInfo.cs
+C:\Users\marag\OneDrive\Desktop\TrueCode\Repos\Weather API\obj\Debug\netcoreapp3.1\Weather API.csproj.CoreCompileInputs.cache
+C:\Users\marag\OneDrive\Desktop\TrueCode\Repos\Weather API\obj\Debug\netcoreapp3.1\Weather API.csproj.CopyComplete
+C:\Users\marag\OneDrive\Desktop\TrueCode\Repos\Weather API\obj\Debug\netcoreapp3.1\Weather API.dll
+C:\Users\marag\OneDrive\Desktop\TrueCode\Repos\Weather API\obj\Debug\netcoreapp3.1\Weather API.pdb
+C:\Users\marag\OneDrive\Desktop\TrueCode\Repos\Weather API\obj\Debug\netcoreapp3.1\Weather API.genruntimeconfig.cache
